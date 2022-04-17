@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/umcondo/cat-jjal-maker/precache-manifest.17ebd96c0cf2613458b84acbcc0dd852.js"
+  "/cat-jjal-maker/precache-manifest.178017b9f0ee0304de1c5f31275f5911.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/umcondo/cat-jjal-maker/index.html", {
+workbox.routing.registerNavigationRoute("/cat-jjal-maker/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
