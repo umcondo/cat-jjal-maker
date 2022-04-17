@@ -1,3 +1,5 @@
+import React, { Component } from "react";
+
 const MainCard = ({ img, onHeartClick, alreadyFavorite }) => {
   const heartIcon = alreadyFavorite ? "💖" : "🤍";
   return (
