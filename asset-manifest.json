@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/umcondo/cat-jjal-maker/static/css/main.04403762.css",
-    "main.js": "/umcondo/cat-jjal-maker/static/js/main.6817291d.js",
-    "static/js/787.44ce1ab4.chunk.js": "/umcondo/cat-jjal-maker/static/js/787.44ce1ab4.chunk.js",
-    "static/media/logo.svg": "/umcondo/cat-jjal-maker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/umcondo/cat-jjal-maker/index.html",
-    "main.04403762.css.map": "/umcondo/cat-jjal-maker/static/css/main.04403762.css.map",
-    "main.6817291d.js.map": "/umcondo/cat-jjal-maker/static/js/main.6817291d.js.map",
-    "787.44ce1ab4.chunk.js.map": "/umcondo/cat-jjal-maker/static/js/787.44ce1ab4.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.04403762.css",
-    "static/js/main.6817291d.js"
-  ]
+  "main.css": "/umcondo/cat-jjal-maker/static/css/main.040c002f.chunk.css",
+  "main.js": "/umcondo/cat-jjal-maker/static/js/main.ac25c9f5.chunk.js",
+  "main.js.map": "/umcondo/cat-jjal-maker/static/js/main.ac25c9f5.chunk.js.map",
+  "static/js/1.f99921d6.chunk.js": "/umcondo/cat-jjal-maker/static/js/1.f99921d6.chunk.js",
+  "static/js/1.f99921d6.chunk.js.map": "/umcondo/cat-jjal-maker/static/js/1.f99921d6.chunk.js.map",
+  "static/js/2.61bc7633.chunk.js": "/umcondo/cat-jjal-maker/static/js/2.61bc7633.chunk.js",
+  "static/js/2.61bc7633.chunk.js.map": "/umcondo/cat-jjal-maker/static/js/2.61bc7633.chunk.js.map",
+  "runtime~main.js": "/umcondo/cat-jjal-maker/static/js/runtime~main.a30fff54.js",
+  "runtime~main.js.map": "/umcondo/cat-jjal-maker/static/js/runtime~main.a30fff54.js.map",
+  "static/media/logo.svg": "/umcondo/cat-jjal-maker/static/media/logo.06e73328.svg",
+  "static/css/main.040c002f.chunk.css.map": "/umcondo/cat-jjal-maker/static/css/main.040c002f.chunk.css.map",
+  "index.html": "/umcondo/cat-jjal-maker/index.html",
+  "precache-manifest.17ebd96c0cf2613458b84acbcc0dd852.js": "/umcondo/cat-jjal-maker/precache-manifest.17ebd96c0cf2613458b84acbcc0dd852.js",
+  "service-worker.js": "/umcondo/cat-jjal-maker/service-worker.js"
 }
